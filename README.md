@@ -1,5 +1,5 @@
 # gwamya
-For a Live preview of the App, you can visit gwamya.herokuapp.com
+For a Live preview of the App, you can visit https://gwamya.herokuapp.com
 
 Gwamya is a Simple Web Application, built for the love of making things easier for People to understand. With Gwamya, you can be able to convert (to some extent), some English Words to igbo.
 
